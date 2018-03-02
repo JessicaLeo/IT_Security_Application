@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="188abbb2-81ef-4324-98ac-94461992871a" name="Jessica's Server" url="http://54.144.23.154">
+        <fileTransfer host="54.144.23.154" port="22" privateKey="C:\Users\Earth Baby\Dropbox\CSI\ISI 490\mykey.ppk" rootFolder="/var/www/html" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
