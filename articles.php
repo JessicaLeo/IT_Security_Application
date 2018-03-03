@@ -7,7 +7,7 @@
 <?php echo '<h1>IT Security Articles</h1>';
 
 @ $db_conn = new mysqli
-('localhost', 'jessica', 'Uddatb18', 'ITAudit');
+('****', '****', '****', '****');
 
  $query = "select * from Articles";
 
